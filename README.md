@@ -74,7 +74,7 @@ Since we have now created a WebService in HW2 and Weather APP in HW3, this Proje
 - https://drive.google.com/drive/folders/1A1egtTAJ78rUd0HJjX7unlSQB6XuHjdB?usp=sharing
 - docker load -i cloud234.tgz
 - docker run -d -p 8081:80 cloud234:1.0
-- ec2-18-217-158-13.us-east-2.compute.amazonaws.com:8081 or ec2-18-217-158-13.us-east-2.compute.amazonaws.com
+- http://ec2-18-217-158-13.us-east-2.compute.amazonaws.com:8081 or http://ec2-18-217-158-13.us-east-2.compute.amazonaws.com
   
 # Built With
 - Django,AWS: Web Framework used
