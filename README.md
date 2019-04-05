@@ -3,7 +3,7 @@ Since we have now created a WebService in HW2 and Weather APP in HW3, this Proje
 
 # Configuration Details:
 1. To connect to the aws cloud service:
-- ssh -i "red.pem" ubuntu@ec2-18-217-158-13.us-east-2.compute.amazonaws.com
+- ssh -i "red.pem" ubuntu@ec2-3-17-59-123.us-east-2.compute.amazonaws.com
 
 2. After logging in:
 - sudo apt-get update 
@@ -74,7 +74,7 @@ Since we have now created a WebService in HW2 and Weather APP in HW3, this Proje
 - https://drive.google.com/drive/folders/1A1egtTAJ78rUd0HJjX7unlSQB6XuHjdB?usp=sharing
 - docker load -i cloud234.tgz
 - docker run -d -p 8081:80 cloud234:1.0
-- http://ec2-18-217-158-13.us-east-2.compute.amazonaws.com:8081 or http://ec2-18-217-158-13.us-east-2.compute.amazonaws.com
+- http://ec2-3-17-59-123.us-east-2.compute.amazonaws.com:8081/ or http://ec2-3-17-59-123.us-east-2.compute.amazonaws.com/
   
 # Built With
 - Django,AWS: Web Framework used
